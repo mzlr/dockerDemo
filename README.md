@@ -1,5 +1,5 @@
 # dockerDemo
-This is demo to run CPU-version TensorFlow code inside a docker image. 
+This is a demo to run CPU-version TensorFlow code inside a docker image. 
 
 1. Download the code by `git clone `
 2. Build the docker image by `docker build -t demo .`
