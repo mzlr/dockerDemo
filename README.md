@@ -14,6 +14,7 @@ This is a demo to run CPU-version TensorFlow code inside a docker image.
     ```
     sudo docker build -t demo .
     ```
+    Note this will take a while.
 3. Run the docker image 
     ```
     sudo docker run -w /demo -it demo
