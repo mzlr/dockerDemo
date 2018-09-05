@@ -19,7 +19,7 @@ This is a demo to run CPU-version TensorFlow code inside a docker image.
     ```
     sudo docker run -w /demo -it demo
     ```
-4. Inside the docker, run the demo by 
+4. Inside the docker, run the demo 
     ```
     python mnist_softmax.py
     ```
